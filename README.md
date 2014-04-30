@@ -1,4 +1,0 @@
-ThoracicLaceration
-==================
-
-Super awesome game
